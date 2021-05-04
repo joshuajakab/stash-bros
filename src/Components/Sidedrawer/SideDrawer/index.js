@@ -12,7 +12,9 @@ const Sidedrawer = () => {
     <nav className="side-drawer">
         <a href="/">Home</a>
         <a href="/bio">Bio</a>
-        <a href="/portfolio">Portfolio</a>
+        <a href="/shows">Shows</a>
+        <a href="/media">Media</a>
+        <a href="/contact">Contact</a>
         
     </nav>
             
